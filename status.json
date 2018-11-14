@@ -1,1 +1,1 @@
-hola mundo
+{"states":[{"state":"reconocido","checkBy":"every"},{"state":"representado","checkBy":"any","checkspoints":[{"checkId":1,"voter":"diana"}]}]}
