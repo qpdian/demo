@@ -1,1 +1,1 @@
-{"states":[]}
+{"states":[{"status":"no-body","checkpoints":[{"id":111,"voters":[{"voter":"arthur","date":"2018-11-15T23:35:49.614Z"},{"voter":"diana","date":"2018-11-15T23:35:49.614Z"}]},{"id":112,"voters":[{"voter":"diana","date":"2018-11-15T23:35:49.614Z"}]}],"id":11}]}
